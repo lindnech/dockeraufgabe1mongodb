@@ -1,0 +1,74 @@
+{
+    "countries": [
+      {
+        "name": "Vereinigte Staaten",
+        "gold": 1022,
+        "silber": 795,
+        "bronze": 706,
+        "gesamt": 2523
+      },
+      {
+        "name": "Deutschland",
+        "gold": 283,
+        "silber": 282,
+        "bronze": 293,
+        "gesamt": 858
+      },
+      {
+        "name": "Großbritannien",
+        "gold": 263,
+        "silber": 295,
+        "bronze": 293,
+        "gesamt": 851
+      },
+      {
+        "name": "Frankreich",
+        "gold": 248,
+        "silber": 276,
+        "bronze": 316,
+        "gesamt": 840
+      },
+      {
+        "name": "Italien",
+        "gold": 246,
+        "silber": 214,
+        "bronze": 241,
+        "gesamt": 701
+      },
+      {
+        "name": "Schweden",
+        "gold": 202,
+        "silber": 216,
+        "bronze": 235,
+        "gesamt": 653
+      },
+      {
+        "name": "China",
+        "gold": 237,
+        "silber": 196,
+        "bronze": 176,
+        "gesamt": 609
+      },
+      {
+        "name": "Australien",
+        "gold": 147,
+        "silber": 163,
+        "bronze": 187,
+        "gesamt": 497
+      },
+      {
+        "name": "Ungarn",
+        "gold": 175,
+        "silber": 147,
+        "bronze": 169,
+        "gesamt": 491
+      },
+      {
+        "name": "Niederlande",
+        "gold": 133,
+        "silber": 126,
+        "bronze": 158,
+        "gesamt": 417
+      }
+    ]
+  }

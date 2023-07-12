@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Olympics Data</title>
+</head>
+<body>
+  <h1>Olympics Data</h1>
+  <ul id="countriesList"></ul>
+
+  <script>
+    fetch('/countries')
+      .then(response => response.json())
+      .then(data => {
+        const countriesList = document.getElementById('countriesList');
+        data.forEach(country => {
+          const li = document.createElement('li');
+          li.textContent = `${country.name}: ${country.gesamt} Medals`;
+          countriesList.appendChild(li);
+        });
+      });
+  </script>
+</body>
+</html>
